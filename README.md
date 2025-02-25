@@ -1,4 +1,4 @@
-# NLP_Projects
+# NLP Projects
 
 The repository includes the details of the Natual Language Processing (NLP) projects. 
 
