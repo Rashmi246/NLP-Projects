@@ -1,7 +1,13 @@
 # NLP Projects
 
-The repository includes the details of the Natual Language Processing (NLP) projects. 
+This repository contains **Natural Language Processing (NLP)** projects focused on text analysis and classification.
 
-1. Project_A: This is the code for the "IMDb Movie Review Sentiment Analysis".
-2. Project_B: This is the code for the "News Article Classification".
-3. Project: The results of both the projects are summarized in these slides.
+## 📌 Projects Included
+1. **Project A:** [IMDB Movie Review Sentiment Analysis](./Project_A/)  
+   - Analyzes sentiment of movie reviews (positive/negative).  
+   
+2. **Project B:** [News Article Classification](./Project_B/)  
+   - Classifies news articles into predefined categories.
+
+3. **Project Summary:**  
+   - The results of both projects are summarized in [these slides](./Project_Summary/).
