@@ -10,4 +10,4 @@ This repository contains **Natural Language Processing (NLP)** projects focused 
    - Classifies news articles into predefined categories.
 
 3. **Project Summary:**  
-   - The results of both projects are summarized in [these slides](./Project_pptx).
+   - The results of both projects are summarized in [these slides](./Project.pptx).
